@@ -1,6 +1,6 @@
 # npmtest-redux-api-middleware
 
-#### test coverage for  [redux-api-middleware (v1.0.2)](https://github.com/agraboso/redux-api-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-redux-api-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-redux-api-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-redux-api-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-redux-api-middleware)
+#### basic test coverage for  [redux-api-middleware (v1.0.2)](https://github.com/agraboso/redux-api-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-redux-api-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-redux-api-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-redux-api-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-redux-api-middleware)
 
 #### Redux middleware for calling an API.
 
